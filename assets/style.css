@@ -18,7 +18,7 @@
   }
   header {
     display: grid;
-    grid-template-columns: 2.5fr 2fr 1.7fr;
+    grid-template-columns: 2.5fr 2.4fr 1.4fr;
     grid-gap: 20px;
     border-bottom: 1px dashed #ddd;
     border: 50%;
@@ -40,7 +40,7 @@
   }
   header p i {
     vertical-align: middle;
-      padding-right: 10px;
+      padding-right: 5px;
   }
   h1 {
     text-transform: uppercase;
@@ -48,7 +48,7 @@
     font-family: Conv_Roboto-Regular, Sans-Serif;
   }
   header p {
-    margin-left: 80px;
+    margin-left: 40px;
   }
 aside h2 i{
     display: grid;
