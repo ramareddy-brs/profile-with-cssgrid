@@ -18,7 +18,7 @@
   }
   header {
     display: grid;
-    grid-template-columns: 2.5fr 2.4fr 1.4fr;
+    grid-template-columns: 2.5fr 2fr 1.7fr;
     grid-gap: 20px;
     border-bottom: 1px dashed #ddd;
     border: 50%;
